@@ -1,3 +1,4 @@
+from __future__ import annotations
 from actions.person import Person
 import pytest
 
